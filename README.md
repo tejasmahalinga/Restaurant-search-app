@@ -8,10 +8,10 @@ git clone https://github.com/tejasmahalinga/Restaurant-search-app
 
 Next install the dependencies by going to the directory and using the below command:
 
-npm install
+<code>npm install</code>
 
 run the app with the below command:
 
-npm start
+<code>npm start</code>
 
 NOTE: Add your yelp API key (which you can create at https://www.yelp.com/developers website) in the yelp.js file 
